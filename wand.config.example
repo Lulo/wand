@@ -1,0 +1,4 @@
+export ORC_BRANCH=staging
+export PUPPET_ENVIRONMENT=staging
+export SSRCLUSTER_BRANCH=LOCAL
+export LEAF_BRANCH=master
