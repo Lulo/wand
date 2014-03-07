@@ -1,3 +1,4 @@
+export GOLIATH_BRANCH=master
 export ORC_BRANCH=staging
 export PUPPET_ENVIRONMENT=staging
 export SSRCLUSTER_BRANCH=LOCAL
